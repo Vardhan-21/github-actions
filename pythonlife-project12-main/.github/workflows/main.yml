@@ -1,4 +1,4 @@
-name: Build & Deploy Amazon Application
+name: Build & Deploy 
 on:
   push:
     branches:
